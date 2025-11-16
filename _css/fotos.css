@@ -1,0 +1,15 @@
+@charset  "UTF-8"
+
+ul#album-fotos
+{
+	width: 100px;
+	margin: 0 auto;
+	padding: 50px;
+	list-style: none;
+	float: left;
+}
+
+ul#album-fotos li#span
+{
+
+}
